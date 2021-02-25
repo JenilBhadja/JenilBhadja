@@ -44,11 +44,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 <div align="center">
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
- <a href='https://docs.github.com/en/developers'><img align="center" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
- <a href='https://github.com/pricing'><img align="center" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
- <a href='https://stars.github.com/'><img align="center" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
- <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'></a><br><br>
-
+ 
 
 - - -
 <p align="center"> 😃 Jenil would love to connect with you, so please do not hesitate to connect with him on below handles.👇</p>
@@ -67,7 +63,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 
 - - -
 <p align="center">
-  Feel free to reach out to Siddharth if you are interested to talk, he is always ready to have a conversation! 💯
+  Feel free to reach out to Jenil if you are interested to talk, he is always ready to have a conversation! 💯
 </p>
 
 - - -
