@@ -47,7 +47,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
  <a href='https://docs.github.com/en/developers'><img align="center" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
  <a href='https://github.com/pricing'><img align="center" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
  <a href='https://stars.github.com/'><img align="center" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
- s<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img  align="center"src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a><br><br>
+ <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img align="center"src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a><br><br>
 
 
 - - -
@@ -59,7 +59,6 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
   <a href="https://www.linkedin.com/in/jenil-bhadja-09b459189/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="mailto:jenilpatel7565@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://medium.com/@jenilpatel001"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="25"></img></a>&nbsp;&nbsp;
-  
   <a href="https://www.facebook.com/jenilpatel"><img src="https://www.miscarriageassociation.org.uk/wp-content/uploads/2019/10/Facebook-Logo.png" width="25"></img></a>&nbsp;&nbsp;
   
   
