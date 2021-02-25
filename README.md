@@ -47,7 +47,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
  <a href='https://docs.github.com/en/developers'><img align="center" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
  <a href='https://github.com/pricing'><img align="center" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
  <a href='https://stars.github.com/'><img align="center" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
- <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img align="center"src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a><br><br>
+ <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'></a><br><br>
 
 
 - - -
