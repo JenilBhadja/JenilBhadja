@@ -16,7 +16,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 
 - 💬 Ask me about **Java,Python,Web Developement,DBMS,DS&Algo,CN,Linux,Android**
 
-- 📫 How to reach me **jenilpatel7565@gmail.com**
+- 📫 Drop a mail: [jenilpatel7565@gmail.com](jenilpatel7565@gmail.com)
 
 - ⚡ Fun fact **Learn and share knowledge among Students**
 
