@@ -21,7 +21,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 
 <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact I : **Learn and share knowledge among Students**
 
-<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact II : I love Chai <img src="https://cdn.pixabay.com/photo/2019/12/06/04/03/tea-4676561_960_720.png" width="15">
+<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact II : I love Chai <img src="https://cdn.pixabay.com/photo/2019/12/06/04/03/tea-4676561_960_720.png" width="15"> and I cook very delicious 🌱 vegetarian dishes. 😍
 
 - <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [GitHub](https://github.com/jenilbhadja001) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
 
