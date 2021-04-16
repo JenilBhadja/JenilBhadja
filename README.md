@@ -7,7 +7,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 
 - 🔭 I’m currently working on <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"> **Donation Web Application**<br>
 - 🌱 I’m currently learning  **kotlin & .net core**.<br>
-- 👯 I’m looking to collaborate on Android project<br>
+- 👯 I’m looking to collaborate on Android project.<br>
 - 🧗 I try to: Go beyond and push the bounds and explore your potentials<br>
 
 - 🤔  I'm looking for help to improve my competitive programming skills<br>
@@ -18,11 +18,11 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 <!-- - 💬 Ask me about **Java,Python,Web Developement,DBMS,DS&Algo,CN,Linux,Android,kotlin** -->
 
 <h3>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I'm Doing:
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I'm Doing:
 </h3>
 <p>
     - Mobile Apps (android & ios) &nbsp;&nbsp;&nbsp; - Desktop  & Windows Apps <br>
-    - Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Seo Optimisation <br>   
+    - Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Seo Optimisation <br>   
 </p>
 <hr>
 
