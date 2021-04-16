@@ -25,6 +25,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
     - Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Seo Optimisation <br>   
 </p>
 <br>
+
 - 📫 Drop a mail:<a href="mailto:jenilpatel7565@gmail.com" target=_blank rel=noopener>JenilKumar Bhadja<a>
 
 <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact I : **Learn and share knowledge among Students**
