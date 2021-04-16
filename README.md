@@ -15,7 +15,16 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 
 <!--- 👨‍💻 All of my projects are available at [https://github.com/jenilbhadja001](https://github.com/jenilbhadja001)-->
 
-- 💬 Ask me about **Java,Python,Web Developement,DBMS,DS&Algo,CN,Linux,Android,kotlin**
+<!-- - 💬 Ask me about **Java,Python,Web Developement,DBMS,DS&Algo,CN,Linux,Android,kotlin** -->
+
+<h3>
+    What I'm Doing:
+</h3>
+<p>
+    - Mobile Apps (android & ios) &nbsp;&nbsp;&nbsp; - Desktop  & Windows Apps <br>
+    - Web Development&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp; - Seo Optimisation <br>   
+</p>
+<hr>
 
 - 📫 Drop a mail:<a href="mailto:jenilpatel7565@gmail.com" target=_blank rel=noopener>JenilKumar Bhadja<a>
 
