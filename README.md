@@ -14,10 +14,9 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 - 👯 I’m looking to collaborate on Android project.<br>
 - 🧗 I try to: Go beyond and push the bounds and explore your potentials<br>
 <!--- 🤔  I'm looking for help to improve my competitive programming skills<br>-->
-- 🔭  I’m currently exploring advanced webs development skills<br>
+<!--- 🔭  I’m currently exploring advanced webs development skills<br>-->
 <!--- 👨‍💻 All of my projects are available at [https://github.com/jenilbhadja001](https://github.com/jenilbhadja001)-->
 <!-- - 💬 Ask me about **Java,Python,Web Developement,DBMS,DS&Algo,CN,Linux,Android,kotlin** -->
-
 <h3>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I'm Doing:
 </h3>
