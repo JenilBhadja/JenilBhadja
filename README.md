@@ -7,7 +7,8 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 
 ### About Me 🚀
 <p> I’m an Tech Enthusiast & a junior pursuing my Bachelors in Computer Engineering. </br></p>
-- 👨‍💻  I am passionate about software development & innovations,i always ready to help  & i enjoy learning new things. </br>
+<p>I am passionate about software development & innovations,i always ready to help  & i enjoy learning new things. </br></p>
+<p>I believe in the power of community & have also given talks at events & various hackthon.</p>   
 - 🔭 I’m currently working on <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"> **Donation Web Application**<br>
 - 🌱 I’m currently learning  **kotlin & .net core**.<br>
 - 👯 I’m looking to collaborate on Android project.<br>
