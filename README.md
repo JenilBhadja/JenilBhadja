@@ -21,8 +21,8 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I'm Doing:
 </h3>
 <p>
-    - Mobile Apps (android & ios)  - Desktop  & Windows Apps <br>
-    - Web Development              - Seo Optimisation <br>   
+    - Mobile Apps (android & ios)&nbsp;&nbsp;&nbsp;- Desktop  & Windows Apps <br>
+    - Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Seo Optimisation <br>   
 </p>
 <br>
 
