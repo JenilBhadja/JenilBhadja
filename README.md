@@ -22,16 +22,17 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 </h3>
 <p>
     - Mobile Apps (android & ios) &nbsp;&nbsp;&nbsp;- Desktop  & Windows Apps <br>
-    - Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Seo Optimisation <br>   
+    - Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Seo Optimisation <br>   
 </p>
-
+<br>
+<br>
 - 📫 Drop a mail:<a href="mailto:jenilpatel7565@gmail.com" target=_blank rel=noopener>JenilKumar Bhadja<a>
 
 <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact I : **Learn and share knowledge among Students**
 
 <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact II : I love Chai <img src="https://cdn.pixabay.com/photo/2019/12/06/04/03/tea-4676561_960_720.png" width="15"> and I cook very delicious 🌱 vegetarian dishes. 😍
 
-- <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [GitHub](https://github.com/jenilbhadja001) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
+- <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [Linkedin](https://www.linkedin.com/in/jenil-bhadja-09b459189/) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
 
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
