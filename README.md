@@ -6,8 +6,8 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="500" height="320" style="max-width:100%;">
 
 - 🔭 I’m currently working on <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"> **Donation Web Application**<br>
-- 🌱 I’m currently learning  **Python & .net core**.<br>
-- 👯 I’m looking to collaborate on Python project<br>
+- 🌱 I’m currently learning  **kotlin & .net core**.<br>
+- 👯 I’m looking to collaborate on Android project<br>
 - 🧗 I try to: Go beyond and push the bounds and explore your potentials<br>
 
 - 🤔  I'm looking for help to improve my competitive programming skills<br>
@@ -15,9 +15,9 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 
 <!--- 👨‍💻 All of my projects are available at [https://github.com/jenilbhadja001](https://github.com/jenilbhadja001)-->
 
-- 💬 Ask me about **Java,Python,Web Developement,DBMS,DS&Algo,CN,Linux,Android**
+- 💬 Ask me about **Java,Python,Web Developement,DBMS,DS&Algo,CN,Linux,Android,kotlin**
 
-- 📫 Drop a mail: [jenilpatel7565@gmail.com](jenilpatel7565@gmail.com)
+- 📫 Drop a mail:<a href="mailto:jenilpatel7565@gmail.com" target=_blank rel=noopener>JenilKumar Bhadja<a>
 
 <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact I : **Learn and share knowledge among Students**
 
