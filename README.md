@@ -75,8 +75,8 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
   <a href="https://www.instagram.com/jenilpatel001"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jenil-bhadja-09b459189/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="mailto:jenilpatel7565@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="25"></img></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@jenilpatel001"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="25"></img></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/jenilpatel"><img src="https://www.miscarriageassociation.org.uk/wp-content/uploads/2019/10/Facebook-Logo.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@jenilbhadja001"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100010862703630"><img src="https://www.miscarriageassociation.org.uk/wp-content/uploads/2019/10/Facebook-Logo.png" width="25"></img></a>&nbsp;&nbsp;
   
   
 </p>
