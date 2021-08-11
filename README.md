@@ -94,7 +94,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
   <a href="mailto:jenilpatel7565@gmail.com" target=_blank rel=noopener><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://medium.com/@jenilbhadja001" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100010862703630" target=_blank rel=noopener><img src="https://www.miscarriageassociation.org.uk/wp-content/uploads/2019/10/Facebook-Logo.png" width="25"></img></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/14268451" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14268451" height="20" width="25" /></a>
+  <a href="https://stackoverflow.com/users/16638973/jenil-bhadja" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14268451" height="20" width="25" /></a>
   
   
 </p>
