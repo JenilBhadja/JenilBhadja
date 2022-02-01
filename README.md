@@ -39,7 +39,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 <br>
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 - - -
-<details align="center">
+<!--<details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -47,7 +47,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
   </a>
 </p>
 </details>
-<!--<details>
+<details>
 	 <summary>Github Stats 📈:</summary>
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jenilbhadja001&show_icons=true&count_private=true&theme=radical" width="350" height="250"> </a>
@@ -81,7 +81,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
  
 -->
-- - -
+
 <p align="center"> 😃 Jenil would love to connect with you, so please do not hesitate to connect with him on below handles.👇</p>
 
 <p align="center">
@@ -113,7 +113,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 
 
 <!--[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)<br>-->
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-JENIL-red)](https://github.com/jenilbhadja001)
+<!--[![](https://img.shields.io/badge/Made%20With%20❤️%20By-JENIL-red)](https://github.com/jenilbhadja001)-->
 
 <div align="center">
 <h5> Made With ❤️ By Sahil Bhatiya </h5>
