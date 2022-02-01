@@ -9,6 +9,16 @@
 
 
 ### About Me 🚀
+
+
+<h6>
+       <!--<p align="center">I am a Google DSC Lead, Founder of Softglare, and Chief Technology Officer of Webiflu. </p>
+    <p align="center" > With experience managing teams and working with different kinds of technologies. </p>
+    <p align="center" > I love technologies and helping others. I consider myself a 'forever student' and eager to build my career on academic foundations in sociology, technology, and leading teams through continued coursework. </p>-->
+   
+
+    I am a Software Developer with an innovative thinking sense who loves to develop high-end software with a piece of extraordinary knowledge. Quality working habits, intuitive business sense, instant technology grasping power, witty implementation sense, underpin dedication to steer streamlined operations, and a creative brain helps me keep my work glowing incandescent. "Respected for the capacity to think outside the square", Application Development ,Graphics & UI-UX designing, software development are some of the leading secret superpowers!
+</h6>
 <p>I’m an Tech Enthusiast & a junior pursuing my Bachelors in Computer Engineering. </br></p>
 <p>I am passionate about software development & innovations,i always ready to help  & i enjoy learning new things. </br></p>
 <p>I believe in the power of community & have also given talks at events & various hackthon.</p>   
