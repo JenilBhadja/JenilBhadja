@@ -1,9 +1,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi!  I'm 
 JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
-
-
-- - - 
-
+ 
 
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="500" height="320" style="max-width:100%;">
 
@@ -102,19 +99,25 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
   
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jenilbhadja001&label=Profile%20views&color=0e75b6&style=flat" alt="jenilbhadja" /></p>
+<p align="center"> <a href="https://twitter.com/jenilbhadja001" target="blank"><img src="https://img.shields.io/twitter/follow/jenilbhadja001?logo=twitter&style=for-the-badge" alt="jenilbhadja001" /></a> </p>
+
+
 <p align="center">
 <a  href="https://www.buymeacoffee.com/jenilbhadja001" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jenilbhadja001&label=Profile%20views&color=0e75b6&style=flat" alt="jenilbhadja" /></p>
-<p align="center"> <a href="https://twitter.com/jenilbhadja001" target="blank"><img src="https://img.shields.io/twitter/follow/jenilbhadja001?logo=twitter&style=for-the-badge" alt="jenilbhadja001" /></a> </p>
 
-- - -
+
 <p align="center">
   Feel free to reach out to Jenil if you are interested to talk, he is always ready to have a conversation! 💯 &nbsp;<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
 </p>
 
-- - -
+
 <!--[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)<br>-->
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-JENIL-red)](https://github.com/jenilbhadja001)
+
+<div align="center">
+<h5> Made With ❤️ By Sahil Bhatiya </h5>
+</div>
