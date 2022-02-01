@@ -99,7 +99,7 @@
  
 -->
 
-<p align="center"> 😃 Jenil would love to connect with you, so please do not hesitate to connect with him on below handles.👇</p>
+<p align="center"><b> 😃 Jenil would love to connect with you, so please do not hesitate to connect with him on below handles.👇</p>
 
 <p align="center">
   <a href="https://twitter.com/jenilbhadja001" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
