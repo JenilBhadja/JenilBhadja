@@ -34,7 +34,7 @@ Jenil Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed58
 
 <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact II : I love Chai <img src="https://cdn.pixabay.com/photo/2019/12/06/04/03/tea-4676561_960_720.png" width="15"> and I cook very delicious 🌱 vegetarian dishes. 😍
 
-🌟 STAR THE REPOS IF YOU LIKE 🌟
+<!--🌟 STAR THE REPOS IF YOU LIKE 🌟 -->
 <br>
 <br>
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
