@@ -107,10 +107,9 @@ Jenil Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed58
 
 
 
-<p align="center">
+<!--<p align="center">
   Feel free to reach out to Jenil if you are interested to talk, he is always ready to have a conversation! 💯 &nbsp;<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
-</p>
-
+</p> ->
 
 <!--[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)<br>-->
 <!--[![](https://img.shields.io/badge/Made%20With%20❤️%20By-JENIL-red)](https://github.com/jenilbhadja001)-->
