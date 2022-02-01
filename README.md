@@ -20,10 +20,20 @@ Jenil Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed58
 <h3>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I'm Doing:
 </h3>
-<p>
+<h4>
+    What I'm Doing:
+</h4>
+<h6>
+    - Web Apps <br>
+    - Desktop Apps <br>
+    - UI / UX Designing <br>
+    - Graphic Designing <br>
+    - Android Apps <br>
+</h6>
+<!--<p>
     - Mobile Apps (android & ios)&nbsp;&nbsp;&nbsp;- Desktop  & Windows Apps <br>
     - Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- SEO Optimisation <br>   
-</p>
+</p>-->
 <br>
 
  <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [Linkedin](https://www.linkedin.com/in/jenilbhadja001/) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
