@@ -24,11 +24,12 @@ Jenil Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed58
     What I'm Doing:
 </h4>
 <h6>
+    - Mobile Apps (Android & iOS) <br>
     - Web Apps <br>
     - Desktop Apps <br>
     - UI / UX Designing <br>
     - Graphic Designing <br>
-    - Android Apps <br>
+    
 </h6>
 <!--<p>
     - Mobile Apps (android & ios)&nbsp;&nbsp;&nbsp;- Desktop  & Windows Apps <br>
@@ -37,9 +38,9 @@ Jenil Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed58
 <div align="center">
 <h5>👨‍💻 Visit My Website For More Information https://jenilbhadja.me/ </h5>
 </div>
- <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [Linkedin](https://www.linkedin.com/in/jenilbhadja001/) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
+ <!--<img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [Linkedin](https://www.linkedin.com/in/jenilbhadja001/) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">-->
 
-<!-- - 📫 Drop a mail:<a href="mailto:jenil.bhadja0017565@gmail.com" target=_blank rel=noopener>JenilKumar Bhadja<a>-->
+<!-- - 📫 Drop a mail:<a href="mailto:jenil.bhadja001@gmail.com" target=_blank rel=noopener>JenilKumar Bhadja<a>-->
 
 <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact I : **Learn and share knowledge among Students**
 
