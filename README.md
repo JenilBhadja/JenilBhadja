@@ -101,7 +101,7 @@
 
 <p align="center"><b> 😃 Jenil would love to connect with you, so please do not hesitate to connect with him on below handles.👇</p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://twitter.com/jenilbhadja001" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/jenilpatel001/" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jenilbhadja001/" target=_blank rel=noopener><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>&nbsp;&nbsp;
@@ -109,8 +109,9 @@
   <a href="https://medium.com/@jenilbhadja001" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/jenilbhadja001/" target=_blank rel=noopener><img src="https://www.miscarriageassociation.org.uk/wp-content/uploads/2019/10/Facebook-Logo.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/16638973/jenil-bhadja" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14268451" height="20" width="25" /></a>
-  
-  
+</p>-->
+
+<p><a href="https://github.com/jenilbhadja001/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/jenilbhadja001" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jenilbhadja001/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@jenilbhadja001" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jenilbhadja001&label=Profile%20views&color=0e75b6&style=flat" alt="jenilbhadja" /></p>
