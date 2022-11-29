@@ -40,7 +40,7 @@
     - Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- SEO Optimisation <br>   
 </p>-->
 <div align="center">
-<h5>👨‍💻 Visit My Website For More Information https://jenilbhadja.me/ </h5>
+<h5>👨‍💻 Visit My Website For More Information http://jenilbhadja.site/ </h5>
 </div>
  <!--<img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [Linkedin](https://www.linkedin.com/in/jenilbhadja001/) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">-->
 
