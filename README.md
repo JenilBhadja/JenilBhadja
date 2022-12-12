@@ -102,11 +102,11 @@
 <p align="center"><b> 😃 Jenil would love to connect with you, so please do not hesitate to connect with him on below handles.👇</p>
 
 <!--<p align="center">
-  <a href="https://twitter.com/jenilbhadja001" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/JenilBhadja" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/jenilpatel001/" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="25"></img></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jenilbhadja001/" target=_blank rel=noopener><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jenilbhadja/" target=_blank rel=noopener><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="mailto:jenil.bhadja001@gmail.com" target=_blank rel=noopener><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="25"></img></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@jenilbhadja001" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="25"></img></a>&nbsp;&nbsp;
+  <a href="https://jenilbhadja001.medium.com/" target=_blank rel=noopener><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/jenilbhadja001/" target=_blank rel=noopener><img src="https://www.miscarriageassociation.org.uk/wp-content/uploads/2019/10/Facebook-Logo.png" width="25"></img></a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/16638973/jenil-bhadja" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14268451" height="20" width="25" /></a>
 </p>-->
