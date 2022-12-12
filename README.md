@@ -19,7 +19,7 @@
 - 🧗 I try to: Go beyond and push the bounds and explore your potentials<br>-->
 <!--- 🤔  I'm looking for help to improve my competitive programming skills<br>-->
 <!--- 🔭  I’m currently exploring advanced webs development skills<br>-->
-<!--- 👨‍💻 All of my projects are available at [https://github.com/jenilbhadja001](https://github.com/jenilbhadja001)-->
+<!--- 👨‍💻 All of my projects are available at [https://github.com/JenilBhadja](https://github.com/JenilBhadja)-->
 <!-- - 💬 Ask me about **Java,Python,Web Developement,DBMS,DS&Algo,CN,Linux,Android,kotlin** -->
 <!--<h3>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I'm Doing:
@@ -111,7 +111,7 @@
   <a href="https://stackoverflow.com/users/16638973/jenil-bhadja" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14268451" height="20" width="25" /></a>
 </p>-->
 
-<p align="center"><a href="https://github.com/jenilbhadja001/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/jenilbhadja001" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jenilbhadja001/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@jenilbhadja001" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p align="center"><a href="https://github.com/JenilBhadja" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/jenilbhadja001" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jenilbhadja001/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@jenilbhadja001" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jenilbhadja001&label=Profile%20views&color=0e75b6&style=flat" alt="jenilbhadja" /></p>
