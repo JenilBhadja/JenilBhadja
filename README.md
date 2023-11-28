@@ -1,5 +1,5 @@
 
-<h2 align="center">
+<<h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
     Hi!  I'm  Jenil Bhadja 
   <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="60px">
@@ -10,8 +10,10 @@
 
 ### About Me 🚀
 
-<p>I’m an Tech Enthusiast & a junior pursuing my Bachelors in Computer Engineering. </br></p>
-<p>I am a Software Developer with an innovative thinking sense who loves to develop high-end software with a piece of extraordinary knowledge.  </br></p>
+<!--<p>I’m an Tech Enthusiast & a junior pursuing my Bachelors in Computer Engineering. </br></p>
+<p>I am a Software Developer with an innovative thinking sense who loves to develop high-end software with a piece of extraordinary knowledge.  </br></p>-->
+<p>As a Junior iOS developer, I have gained valuable experience in iOS app development using Swift for iPhone. I'm familiar with different programming languages, frameworks, and tools, which I'm eagercto continue exploring and learning. I can work independently and as a team member, contributing my skills and knowledge effectively.</br></p>
+<p>I aim to find an opportunity with a reputable organization that allows me to apply my technical and functional expertise. I aspire to be part of a dynamic team that actively contributes to the organization's growth and success.</br></p>
 <!--<p>I believe in the power of community & have also given talks at events & various hackthon.</p>   
 - 🔭 I’m currently working on <b>Crime Base Mobile Application</b><br>
 - 🌱 I’m currently learning <b>Swift</b>.<br>
@@ -30,11 +32,13 @@
 <h6>
     - Mobile Apps (Android & iOS) <br>
     - Web Apps <br>
-    - Desktop Apps <br>
-    - UI / UX Designing <br>
-    - Graphic Designing <br>
-    
+    - Website , WordPress <br>
 </h6>
+ <!---
+     - Desktop Apps <br>
+      UI / UX Designing <br>
+    - Graphic Designing <br>-->
+    
 <!--<p>
     - Mobile Apps (android & ios)&nbsp;&nbsp;&nbsp;- Desktop  & Windows Apps <br>
     - Web Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- SEO Optimisation <br>   
@@ -45,10 +49,11 @@
  <!--<img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [Linkedin](https://www.linkedin.com/in/jenilbhadja001/) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">-->
 
 <!-- - 📫 Drop a mail:<a href="mailto:jenil.bhadja001@gmail.com" target=_blank rel=noopener>JenilKumar Bhadja<a>-->
-
+<!--
 <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact I : Learn and Share knowledge among Students.
 
-<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact II : I love Chai <img src="https://cdn.pixabay.com/photo/2019/12/06/04/03/tea-4676561_960_720.png" width="15"> and I cook very delicious 🌱 vegetarian dishes. 😍
+<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> Fun fact II : I love Chai <img src="https://cdn.pixabay.com/photo/2019/12/06/04/03/tea-4676561_960_720.png" width="15"> and I cook very delicious 🌱 vegetarian dishes. 
+😍->
 
 <!--🌟 STAR THE REPOS IF YOU LIKE 🌟 -->
 
@@ -111,7 +116,7 @@
   <a href="https://stackoverflow.com/users/16638973/jenil-bhadja" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14268451" height="20" width="25" /></a>
 </p>-->
 
-<p align="center"><a href="https://github.com/JenilBhadja" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/jenilbhadja001" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jenilbhadja001/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@jenilbhadja001" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p align="center"><a href="https://github.com/JenilBhadja" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/JenilBhadja" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jenilbhadja/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@jenilbhadja001" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jenilbhadja001&label=Profile%20views&color=0e75b6&style=flat" alt="jenilbhadja" /></p>
